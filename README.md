@@ -12,7 +12,7 @@ This could include:
 - Step-by-step instructions for installing
 - Software dependencies that need to be installed.
 - Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+- Common issues
 
 ## Contribution guidelines
 
