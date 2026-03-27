@@ -3,7 +3,7 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+Project aims to publish my work
 
 ## Information about how to use your project
 
